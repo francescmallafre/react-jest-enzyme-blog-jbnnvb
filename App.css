@@ -1,0 +1,9 @@
+.actions-panel {
+  background: pink;
+  margin-bottom: 10px;
+  border: 2px solid purple;
+}
+
+.actions-panel button {
+  margin: 5px 10px
+}
